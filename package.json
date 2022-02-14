@@ -1,11 +1,24 @@
 {
   "name": "weatherproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "Weather Project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Karan Kundra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karan9Kundra/Weather-Project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Karan9Kundra/Weather-Project/issues"
+  },
+  "homepage": "https://github.com/Karan9Kundra/Weather-Project#readme"
 }
