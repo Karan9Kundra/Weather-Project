@@ -77,6 +77,20 @@ label {
   color: white;
 }
 
+a {
+  color: black;
+  background-color: aliceblue;
+  padding: 7px;
+  border: 3px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  border: 3px solid white;
+  transition: all 0.2s;
+}
+
 input {
   padding: 6px 2px;
   outline: none;
