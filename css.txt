@@ -1,0 +1,24 @@
+body{
+  background-color: lightgrey;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin-top: 300px;
+}
+input[type = text]{
+  border-radius: 5px;
+  height: 30px;
+  border: 1px solid grey;
+}
+button{
+  border-radius: 5px;
+  height: 35px;
+  border: 1px solid grey;
+}
+button:hover{
+  margin-right: 10px;
+  transition: 0.1s;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}

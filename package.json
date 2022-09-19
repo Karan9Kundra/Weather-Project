@@ -9,7 +9,7 @@
   "author": "Karan Kundra",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.8",
     "express": "^4.17.2"
   },
   "repository": {
