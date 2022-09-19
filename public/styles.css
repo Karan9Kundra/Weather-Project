@@ -115,9 +115,11 @@ button {
   font-size: inherit;
   letter-spacing: 2px;
   background-color: aliceblue;
+  color: black;
 }
 
 button:hover {
+  color: black;
   background-color: #f0f0f0;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
